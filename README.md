@@ -1,5 +1,7 @@
 ### README.md profile coming soon! 👋
 
+Main projects on github.
+More projects on bitbucket.
 
 [linkedin](https://linkedin.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=linkedin)&nbsp;
 [dribbble](https://dribbble.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=dribbble)&nbsp;
