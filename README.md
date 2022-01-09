@@ -3,11 +3,11 @@
 Main projects on github.
 More projects on bitbucket.
 
-[![linkedin](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[linkedin].svg)](https://linkedin.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=linkedin)&nbsp;
-[![dribbble](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[dribbble].svg)](https://dribbble.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=dribbble)&nbsp;
-[![bitbucket](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[bitbucket].svg)](https://bitbucket.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=bitbucket)&nbsp;
-[![hashnode](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[hashnode].svg)](https://hashnode.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=hashnode)&nbsp;
-[![kaggle](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[kaggle].svg)](https://kaggle.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=kaggle)
+[![linkedin](https://raw.githubusercontent.com/iconic/open-iconic/svg/linkedin.svg)](https://linkedin.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=linkedin)&nbsp;
+[![dribbble](https://raw.githubusercontent.com/iconic/open-iconic/svg/dribbble.svg)](https://dribbble.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=dribbble)&nbsp;
+[![bitbucket](https://raw.githubusercontent.com/iconic/open-iconic/svg/bitbucket.svg)](https://bitbucket.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=bitbucket)&nbsp;
+[![hashnode](https://raw.githubusercontent.com/iconic/open-iconic/svg/hashnode.svg)](https://hashnode.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=hashnode)&nbsp;
+[![kaggle](https://raw.githubusercontent.com/iconic/open-iconic/svg/kaggle.svg)](https://kaggle.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=kaggle)
 
 ## Latest Posts
 
