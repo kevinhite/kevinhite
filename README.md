@@ -1,12 +1,11 @@
 ### README.md profile coming soon! 👋
 
 
-    [linkedin](https://linkedin.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=linkedin)&nbsp;
-    [dribbble](https://dribbble.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=dribbble)&nbsp;
-    [bitbucket](https://bitbucket.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=bitbucket)&nbsp;
-    [github](https://github.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=github)&nbsp;
-    [hashnode](https://hashnode.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=hashnode)&nbsp;
-    [twitter](https://twitter.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=twitter)
+[linkedin](https://linkedin.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=linkedin)&nbsp;
+[dribbble](https://dribbble.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=dribbble)&nbsp;
+[bitbucket](https://bitbucket.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=bitbucket)&nbsp;
+[hashnode](https://hashnode.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=hashnode)&nbsp;
+[twitter](https://twitter.kevinhite.dev/?utm_source=github&utm_medium=profilereadme&utm_campaign=twitter)
   
 
 <!--
