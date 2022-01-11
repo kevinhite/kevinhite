@@ -12,6 +12,8 @@ More projects on bitbucket.
 ## Latest Posts
 
 ## Latest Videos
+
+**Connect with me:** YouTube Instagram Twitter Pinterest
   
 
 <!--
