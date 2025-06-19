@@ -1,4 +1,4 @@
-### KEVIN HITE
+# KEVIN HITE
 ## About Me
 <p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eros magna, tempus vel sem non, facilisis posuere nisi. Donec ullamcorper sem fringilla quam sodal</p>
 <a href="https://kevinhite.com/" title="homepage">homepage</a><br/>
